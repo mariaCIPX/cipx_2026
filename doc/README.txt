@@ -78,6 +78,7 @@ The computer player uses an automatic decision-making algorithm to manage its ti
 The algorithm handles the following actions:
 -- Automatic Drawing: Draws a tile from the remaining tiles.
 -- Automatic Discarding: Evaluates its current hand and selects a tile to discard.
+-- COMPUTER player is able to calculate the probability to win
 -- Winning Detection: Checks whether its hand meets a valid winning combination.
 -- Automatic Winning Decision: Determines when to declare a win based on the game rules.
 -- Game State Management: Updates its hand, discard list, and relevant tile combinations after each action.
