@@ -129,6 +129,7 @@ Steps:
 1. Open a terminal or command prompt.
 2. Navigate to the project folder.
 3. Run the main game script using Python.
+   ** Use "seed" to be able to repeat the testing data
 4. HOW TO RUN THE TEST CASES
 Run the unit tests using Python's unittest framework.
 -----------------------
